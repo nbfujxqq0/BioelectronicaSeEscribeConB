@@ -1,0 +1,2 @@
+# BioelectronicaSeEscribeConB
+HOLA AMIGOS LES DEJO LOS CODIGOS Y DIAGRAMAS
